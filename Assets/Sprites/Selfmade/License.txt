@@ -1,0 +1,6 @@
+All this sprites were selfmade in https://www.piskelapp.com/ this a free online tool to draw 2D pixel art
+
+The art that is done it is completely free to use like they confirm in their FAQ page (https://www.piskelapp.com/faq):
+
+	- Can I use a sprite made with Piskel in a commercial project?
+	- Yes! Whatever you create with Piskel is yours. We do not hold any rights on user creations made on piskelapp.com or with the offline Piskel editors.
